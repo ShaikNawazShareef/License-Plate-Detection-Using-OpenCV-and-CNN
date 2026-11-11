@@ -68,7 +68,10 @@ pip install numpy opencv-python matplotlib tensorflow scikit-learn
 - Improve accuracy under different lighting and weather conditions.
 
 ## 👨‍💻 Author
-**Nawaz Shaik**
+
+**Nawaz Shareef Shaik**
+
+GitHub: https://github.com/ShaikNawazShareef
 
 ## ⭐ Conclusion
 This project demonstrates vehicle license plate detection and character segmentation using Python and OpenCV, providing a foundation for developing an intelligent automatic number plate recognition (ANPR) system.
